@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.svg" alt="" width="96" />
-</p>
-
-<p align="center">
   <b>Andrei</b> · Bucharest<br>
   <sub>Paying attention to the things that don't look like anything.</sub>
 </p>
