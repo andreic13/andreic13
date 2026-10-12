@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:andreic13@proto.me">mail</a>
+  <a href="mailto:andreic13@proto.me">mail:andreic13@proto.me</a>
 </p>
